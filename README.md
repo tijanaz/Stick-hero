@@ -6,7 +6,7 @@ Projekat predstavlja kratku igru prelaska loptice sa zgrade na zgradu uz pomoć 
 
 # ▶️ Instalacija i pokretanje:
 1. potrebna je glut biblioteka
-2. klonirati ovaj repozitorijum sa 'git clone https://github.com/MATF-RG17/RG100-stick-hero'
+2. klonirati ovaj repozitorijum sa 'git clone https://github.com/tijanaz/Stick-hero'
 3. cd src
 4. make
 5. ./hero
